@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi! I&#39;m Abhisek on Abhisek Ganguly</title>
+    <link>https://abhisekganguly.github.com/datascience-portfolio/</link>
+    <description>Recent content in Hi! I&#39;m Abhisek on Abhisek Ganguly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Nov 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://abhisekganguly.github.com/datascience-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project III: Coming soon</title>
+      <link>https://abhisekganguly.github.com/datascience-portfolio/post/project-3/</link>
+      <pubDate>Thu, 25 Nov 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://abhisekganguly.github.com/datascience-portfolio/post/project-3/</guid>
+      <description>I&amp;rsquo;m working on something new and exciting. It&amp;rsquo;ll be served to you ready and hot.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Dog breed classification</title>
+      <link>https://abhisekganguly.github.com/datascience-portfolio/post/project-2/</link>
+      <pubDate>Wed, 24 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhisekganguly.github.com/datascience-portfolio/post/project-2/</guid>
+      <description>A dog breed classification system built using Keras Deep learning. It is built on dataset from Kaggle which you can find here This classification system is built using convolutional neural networks (CNN) that allows us to train and test the model on a wide variety of data with high precession.   Screenshot of the project    Screenshot of the project    You can find this project hosted on clouds here  Link to this project&amp;rsquo;s GitHub Repository.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Pancard Fraud Detection System.</title>
+      <link>https://abhisekganguly.github.com/datascience-portfolio/post/project-1/</link>
+      <pubDate>Tue, 23 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhisekganguly.github.com/datascience-portfolio/post/project-1/</guid>
+      <description>A PAN card fraud detection system. It works by differentiating between original and fake PAN cards by comparing theie structural similarity. The original GitHub repository of this project can be found here The web app is developed using flask, a python web framework.   Screenshot of the project   Link to this project&amp;rsquo;s GitHub Repository.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://abhisekganguly.github.com/datascience-portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhisekganguly.github.com/datascience-portfolio/contact/</guid>
+      <description>You can follow and connect with me on these social media platforms.
+   Platform URL     Twitter: https://twitter.com/abhisekgangulyy   Instagram: https://instagram.com/abhiseknomad   YouTube: https://www.youtube.com/channel/UCvRLhqAoHZb5Sa7cK87kB4g   GitHub: https://github.com/AbhisekGanguly   LinkedIn: https://www.linkedin.com/in/abhisek-ganguly-489170186/    </description>
+    </item>
+    
+  </channel>
+</rss>
