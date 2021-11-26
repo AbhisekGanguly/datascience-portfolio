@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Abhisek Ganguly</title>
-    <link>https://abhisekganguly.github.com/datascience-portfolio/tags/</link>
+    <link>https://abhisekganguly.github.io/datascience-portfolio/tags/</link>
     <description>Recent content in Tags on Abhisek Ganguly</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://abhisekganguly.github.com/datascience-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://abhisekganguly.github.io/datascience-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
