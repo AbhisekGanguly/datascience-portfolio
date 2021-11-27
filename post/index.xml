@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Abhisek Ganguly</title>
+    <title>Articles on Abhisek Ganguly</title>
     <link>https://abhisekganguly.github.io/datascience-portfolio/post/</link>
-    <description>Recent content in Projects on Abhisek Ganguly</description>
+    <description>Recent content in Articles on Abhisek Ganguly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://abhisekganguly.github.io/datascience-portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pilot</title>
+      <link>https://abhisekganguly.github.io/datascience-portfolio/post/project-4/</link>
+      <pubDate>Fri, 26 Nov 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://abhisekganguly.github.io/datascience-portfolio/post/project-4/</guid>
+      <description>Hello reader, Welcome to my personal website. Here I journal my developer journay and also showcase my projects for all to see.
+I&amp;rsquo;m so excited so share my learning journey with people online, but first let me introduce myself to those who don&amp;rsquo;t know me.
+My name is Abhisek Ganguly and I&amp;rsquo;m an engineering student at VIT Bhopal University with major in Computer Science. My specialization in computataional and data science.</description>
+    </item>
+    
     <item>
       <title>Project III: Coming soon</title>
       <link>https://abhisekganguly.github.io/datascience-portfolio/post/project-3/</link>
