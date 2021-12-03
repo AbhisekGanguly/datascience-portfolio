@@ -6,7 +6,17 @@
     <description>Recent content in Hi! I&#39;m Abhisek on Abhisek Ganguly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Nov 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://abhisekganguly.github.io/datascience-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Dec 2021 11:00:32 -0400</lastBuildDate><atom:link href="https://abhisekganguly.github.io/datascience-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Big-O notation</title>
+      <link>https://abhisekganguly.github.io/datascience-portfolio/post/project-5/</link>
+      <pubDate>Thu, 02 Dec 2021 11:00:32 -0400</pubDate>
+      
+      <guid>https://abhisekganguly.github.io/datascience-portfolio/post/project-5/</guid>
+      <description>If you are a new computer science student; it&amp;rsquo;s possible you&amp;rsquo;ve never heard of this, not yet. Often times it has been seen that not knowing Big O have prevented developers from sitting at the grown ups table. Really, a lot of fuss around it. In this episode, we&amp;rsquo;ll make sure our understanding of Big O is refurbished, so that no-one has to feel left out!
+Now, first let me just address the elephant in the room, &amp;ldquo;what is Big O notation?</description>
+    </item>
+    
     <item>
       <title>Pilot</title>
       <link>https://abhisekganguly.github.io/datascience-portfolio/post/project-4/</link>
